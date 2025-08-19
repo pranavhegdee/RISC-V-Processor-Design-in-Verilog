@@ -26,4 +26,5 @@ It has been tested with assembly programs and simulation waveforms.
 
 ---
 
+<img width="824" height="547" alt="risc v" src="https://github.com/user-attachments/assets/54058fcc-ff2b-4ba7-aab5-3288a9ca6c15" />
 
