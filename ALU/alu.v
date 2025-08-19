@@ -3,7 +3,7 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 11.08.2025 11:30:58
+// Create Date: 
 // Design Name: 
 // Module Name: alu
 // Project Name: 
