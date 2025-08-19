@@ -13,7 +13,7 @@ It has been tested with assembly programs and simulation waveforms.
   - S-type: Store instructions  
   - B-type: Branch instructions  
   - U-type: LUI/AUIPC  
-  - J-type: JAL/JALR  
+  - J-type: Jump Instructions  
 - Modular design:  
   - **ALU**  
   - **Register File**  
@@ -25,5 +25,5 @@ It has been tested with assembly programs and simulation waveforms.
   - **Custom ISA Extensions**  
 
 ---
-(https://roalogic.github.io/RV12/assets/img/RV12_Arch.png)
+
 
